@@ -1,4 +1,4 @@
-Using the Arduino programming language, calculate the usuable IP range from an IP address and the subnet mask.\
+Using the Arduino programming language, calculate the usuable IP range from an IP address and the subnet mask.
 
   IPAddress localIP(192,168,3,69);\
   IPAddress subnetMask(255,255,248,0);\
